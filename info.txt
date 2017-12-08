@@ -1,0 +1,6 @@
+Prerequisites:
+-Visual C++ BuildTools
+-Swing(interface generator)
+
+Packages:
+1)SpeechRecognition (pkgs dependencies PocketSphinx,PyAudio)
